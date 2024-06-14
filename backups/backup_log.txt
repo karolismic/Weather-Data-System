@@ -1,0 +1,9 @@
+Thu May 16 01:07:55 EEST 2024: Starting backup
+DB_HOST='localhost'
+DB_PORT='5432'
+DB_NAME='postgres'
+DB_USER='postgres'
+DB_PASSWORD='user'
+Thu May 16 01:07:55 EEST 2024: Running pg_dump...
+Thu May 16 01:07:55 EEST 2024: Backup completed successfully. File: db_backup_20240516010755.sql
+Thu May 16 01:07:55 EEST 2024: Old backups cleaned up

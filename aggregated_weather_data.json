@@ -1,0 +1,173 @@
+{
+    "Istanbul, Turkey": {
+        "rain_hours_last_day": 4,
+        "rain_hours_last_week": 59,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-12T15:21:29.964567Z",
+        "min_city_hourly": "2024-05-11T22:21:29.964567Z",
+        "std_temp": 11.88100009533314
+    },
+    "London, United Kingdom": {
+        "rain_hours_last_day": 3,
+        "rain_hours_last_week": 40,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-11T23:21:29.964567Z",
+        "min_city_hourly": "2024-05-12T18:21:29.964567Z",
+        "std_temp": 11.716384587425145
+    },
+    "Saint Petersburg, Russia": {
+        "rain_hours_last_day": 4,
+        "rain_hours_last_week": 56,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-12T17:21:29.964567Z",
+        "min_city_hourly": "2024-05-11T16:21:29.964567Z",
+        "std_temp": 11.317785203155337
+    },
+    "Berlin, Germany": {
+        "rain_hours_last_day": 2,
+        "rain_hours_last_week": 56,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-13T08:21:29.964567Z",
+        "min_city_hourly": "2024-05-13T14:21:29.964567Z",
+        "std_temp": 11.62414505670502
+    },
+    "Madrid, Spain": {
+        "rain_hours_last_day": 3,
+        "rain_hours_last_week": 54,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-12T13:21:29.964567Z",
+        "min_city_hourly": "2024-05-11T05:21:29.964567Z",
+        "std_temp": 12.004605125437783
+    },
+    "Kyiv, Ukraine": {
+        "rain_hours_last_day": 4,
+        "rain_hours_last_week": 52,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-10T20:21:29.964567Z",
+        "min_city_hourly": "2024-05-11T13:21:29.964567Z",
+        "std_temp": 12.082024031809215
+    },
+    "Rome, Italy": {
+        "rain_hours_last_day": 4,
+        "rain_hours_last_week": 49,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-11T10:21:29.964567Z",
+        "min_city_hourly": "2024-05-10T18:21:29.964567Z",
+        "std_temp": 11.289951736127204
+    },
+    "Bucharest, Romania": {
+        "rain_hours_last_day": 3,
+        "rain_hours_last_week": 54,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-13T10:21:29.964567Z",
+        "min_city_hourly": "2024-05-12T09:21:29.964567Z",
+        "std_temp": 11.479962579047308
+    },
+    "Paris, France": {
+        "rain_hours_last_day": 5,
+        "rain_hours_last_week": 53,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-13T19:21:29.964567Z",
+        "min_city_hourly": "2024-05-12T12:21:29.964567Z",
+        "std_temp": 11.798694151196115
+    },
+    "Minsk, Belarus": {
+        "rain_hours_last_day": 5,
+        "rain_hours_last_week": 48,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-13T19:21:29.964567Z",
+        "min_city_hourly": "2024-05-10T04:21:29.964567Z",
+        "std_temp": 12.193051020859336
+    },
+    "Vienna, Austria": {
+        "rain_hours_last_day": 5,
+        "rain_hours_last_week": 49,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-13T10:21:29.964567Z",
+        "min_city_hourly": "2024-05-09T05:21:29.964567Z",
+        "std_temp": 11.583276745811956
+    },
+    "Warsaw, Poland": {
+        "rain_hours_last_day": 1,
+        "rain_hours_last_week": 48,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-12T20:21:29.964567Z",
+        "min_city_hourly": "2024-05-11T03:21:29.964567Z",
+        "std_temp": 11.547293809852842
+    },
+    "Hamburg, Germany": {
+        "rain_hours_last_day": 4,
+        "rain_hours_last_week": 51,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-10T09:21:29.964567Z",
+        "min_city_hourly": "2024-05-13T17:21:29.964567Z",
+        "std_temp": 11.955023363288758
+    },
+    "Budapest, Hungary": {
+        "rain_hours_last_day": 2,
+        "rain_hours_last_week": 47,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-08T10:21:29.964567Z",
+        "min_city_hourly": "2024-05-13T20:21:29.964567Z",
+        "std_temp": 11.077518486390646
+    },
+    "Belgrade, Serbia": {
+        "rain_hours_last_day": 4,
+        "rain_hours_last_week": 49,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-13T08:21:29.964567Z",
+        "min_city_hourly": "2024-05-12T19:21:29.964567Z",
+        "std_temp": 12.462204765572086
+    },
+    "Barcelona, Spain": {
+        "rain_hours_last_day": 1,
+        "rain_hours_last_week": 55,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-12T06:21:29.964567Z",
+        "min_city_hourly": "2024-05-10T13:21:29.964567Z",
+        "std_temp": 11.171550295179824
+    },
+    "Munich, Germany": {
+        "rain_hours_last_day": 1,
+        "rain_hours_last_week": 45,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-11T15:21:29.964567Z",
+        "min_city_hourly": "2024-05-12T08:21:29.964567Z",
+        "std_temp": 11.098837999176887
+    },
+    "Kharkiv, Ukraine": {
+        "rain_hours_last_day": 4,
+        "rain_hours_last_week": 51,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-13T05:21:29.964567Z",
+        "min_city_hourly": "2024-05-12T02:21:29.964567Z",
+        "std_temp": 11.68207801343657
+    },
+    "Milan, Italy": {
+        "rain_hours_last_day": 3,
+        "rain_hours_last_week": 58,
+        "max_temp": 35,
+        "min_temp": -5,
+        "max_city_hourly": "2024-05-12T04:21:29.964567Z",
+        "min_city_hourly": "2024-05-13T05:21:29.964567Z",
+        "std_temp": 12.095810764002087
+    }
+}

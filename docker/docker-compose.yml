@@ -1,0 +1,27 @@
+version: '3'
+services:
+  app:
+    build: .
+    environment:
+      - ../configs/.env
+  db:
+    image: postgres:13
+    environment:
+      - POSTGRES_DB=weatherproject
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=user
+    volumes:
+      - db-data:/var/lib/postgresql/data
+  prometheus:
+    image: prom/prometheus
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+  grafana:
+    image: grafana/grafana
+    ports:
+      - "3000:3000"
+
+volumes:
+  db-data:

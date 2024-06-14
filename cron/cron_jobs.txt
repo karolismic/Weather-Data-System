@@ -1,0 +1,6 @@
+# Run the main script every hour to fetch and store weather data
+0 * * * * /usr/bin/python3 /path/to/your/project/WEATHERPROJECT/src/main.py
+
+# Backup the database every hour and keep the last 24 backups
+0 * * * * /path/to/your/project/WEATHERPROJECT/backups/backup_script.sh
+
